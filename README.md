@@ -5,7 +5,7 @@ I'm Ayaz, an enthusiastic learner on the exciting journey into the world of data
 I am currently immersed in a continuous learning process, exploring various aspects of data science, including machine learning, data analysis, and statistical modeling.
 
 
-# Comprehensive Analysis of Uber Data
+## Comprehensive Analysis of Uber Data
 
 The comprehensive analysis of Uber data provides a nuanced understanding of the platform's dynamics. The insights gained contribute to informed decision-making and lay the groundwork for future improvements in service delivery.
 
